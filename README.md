@@ -1,10 +1,10 @@
 # Getting Started
 
-# Open a terminal on backend folder
+## Open a terminal on backend folder
 
 ### run `npm i`
 
-# Open a terminal on client folder
+## Open a terminal on client folder
 
 ### run 
 
